@@ -19,7 +19,7 @@
 
 #### Description
 
-My dashboard details and description.
+Identify open and resolved issues from the Cloud Network Analyzer Detection Method.
 
 ---
 
