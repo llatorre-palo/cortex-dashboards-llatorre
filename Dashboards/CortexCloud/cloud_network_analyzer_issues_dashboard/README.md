@@ -1,4 +1,4 @@
-## Container Image Risk Dashboard
+## Cloud Network Analyzer Issues Dashboard
 
 - [Repository Files](#repository-files)
 - [Description](#description)
