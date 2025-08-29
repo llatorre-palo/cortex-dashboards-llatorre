@@ -1,4 +1,4 @@
-## INternet Exposed Issues Dashboard
+## Internet Exposed Issues Dashboard
 
 - [Repository Files](#repository-files)
 - [Description](#description)
