@@ -19,7 +19,7 @@
 
 #### Description
 
-Identify open and resolved issues from the Cloud Network Analyzer Detection Method.
+Identify open issues from the Cloud Network Analyzer Detection Method and Internet Exposed Assets
 
 ---
 
