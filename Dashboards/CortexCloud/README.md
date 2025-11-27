@@ -11,6 +11,8 @@
  | [Cloud Network Analyzer Issues](cloud_network_analyzer_issues_dashboard/) | Identify all Open and Resolved Cloud Network Analyzer Issues. | [Yes](#drilldown-url) | Luis Latorre | :canada: | 
  | [Internet Exposed Issues](internet_exposed_Issues/) | Identify all Open Cloud Network Analyzer Issues and Internet Exposed Issues. | [Yes](#drilldown-url) | Luis Latorre | :canada: |
 
+| [CNAPP - Runtime Workload Protection/Scan Status Dashboard](runtime_workloads_onboarding_status/) | Status of discovered VMs, K8S Clusters, Serverless Functions, Container Instances |  No | [Oleg Kostine](https://github.com/okostine-panw) | :uk: |
+| [CNAPP - Container/VM Image Protection/Scan Status Dashboard](images_onboarding_status/) | Status of discovered Container/VM Images protection and scanning, VM Images, Container Image Registries, Repositories and Container Images |  No | Oleg Kostine | :uk: |
 
  ---
 
