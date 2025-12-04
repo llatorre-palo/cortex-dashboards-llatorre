@@ -137,7 +137,7 @@
                                 },
                                 "drilldown_config": {
                                     "actionData": {
-                                        "url": "placeholder.com/assets/inventory?name=$row.asset",
+                                        "url": "https://placeholder.com/assets/inventory?name=$row.asset",
                                         "openInNewTab": true
                                     },
                                     "actionType": "open_custom_url"
